@@ -50,3 +50,5 @@ Apply the cronjob.yml manifest to the Kubernetes cluster using `kubectl apply -f
 # Demo:
 You can watch a demonstration of the solution in action in the provided video.
 
+[https://drive.google.com/file/d/1_1U1rLHMJLARK-7kcSBjQKWE_XyMsNCe]
+
